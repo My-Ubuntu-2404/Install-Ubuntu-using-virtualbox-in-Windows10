@@ -9,8 +9,8 @@ https://github.com/mingyuan-zhang/MotionDiffuse
 #############################################
 ####### COMMANDS to run on Linux Ubuntu 24.04
 #############################################
-a. >>> install new environment: motiondiffuse_v5a 
-(base) ┌──(bash㉿kali)-
+a. >>> Install new environment: motiondiffuse_v5a 
+
 └─$ conda create -n motiondiffuse_v5a  python=3.7 -y
 
 └─$ conda activate motiondiffuse_v5a 
